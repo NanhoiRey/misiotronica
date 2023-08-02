@@ -1,0 +1,23 @@
+.brands{
+    width: 100%;
+    height: auto;
+    padding: 3rem 2rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #fff;
+}
+
+.brands-img{
+    width: 16%;
+    margin: 0;
+    padding: 0;
+
+}
+@media(max-width:768px){
+    .brands-img{
+        width: 25%;
+    }
+
+}

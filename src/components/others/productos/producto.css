@@ -1,0 +1,52 @@
+.templateContainer{
+    margin: 5% 0;
+}
+.templateContainer val{
+    background-color: red;
+
+}
+.templateContainer > .searchInput_Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.templateContainer > .searchInput_Container input{
+    width: 50%;
+    padding: 10px;
+    outline: none;
+    border: none;
+    padding: 20px;
+}
+.templateContainer .template_Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+    flex-wrap: wrap;    
+}
+
+.templateContainer .template_Container .template{
+    width:20%;
+    background-color: white;
+    margin: 5px;
+    padding: 1rem;
+    border-radius: 5px;
+
+}
+.templateContainer .template_Container .template img{
+    height: 150px;
+    
+}
+
+@media( max-width: 768px ){
+    .templateContainer .template_Container .template{
+        width:45%;
+
+    
+    }
+    .templateContainer > .searchInput_Container input{
+        width: 90%;
+    }
+
+}

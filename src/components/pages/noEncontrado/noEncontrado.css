@@ -1,0 +1,17 @@
+.noEncontrado-container{
+    width: 100%;
+    height: auto;
+    padding: 1rem 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.noEncontrado-container img{
+    width: 100%;
+}
+@media(max-width:768px){
+    .noEncontrado-container{
+        padding: 0;
+    }
+
+}

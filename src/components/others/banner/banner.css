@@ -1,0 +1,34 @@
+.inicio-contenedor{
+    width: 100%;
+    height: 500px;
+    background-image: url(../../../assets/banner-inicio.jpg);
+    backdrop-filter: blur(5px);
+
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-clip-path: polygon(50% 100%, 100% 66%, 100% 0, 0 0, 0 66%);
+    clip-path: polygon(50% 100%, 100% 66%, 100% 0, 0 0, 0 66%);
+
+}
+.inicio-banner{
+    width: 100%;
+    height: auto;
+    color: #fff;
+    text-align: center;
+}
+.inicio-contenedor h1{
+    font-size: 4.5rem;
+    
+}
+.inicio-contenedor p{
+    color:rgb(66, 131, 209);
+    font-weight: 500;
+    background-color: rgba(0, 0, 0, 0.542);
+    padding: 0.5rem ;
+    border-radius: 10px;
+    width:fit-content;
+    margin: 0 auto;
+
+}

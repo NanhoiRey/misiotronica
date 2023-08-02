@@ -1,0 +1,27 @@
+.ventas-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 4rem;
+
+    
+    background: rgb(3,54,19);
+    background: -moz-linear-gradient(304deg, rgba(3,54,19,1) 0%, rgba(251,255,252,1) 0%, rgba(178,188,254,1) 100%);
+    background: -webkit-linear-gradient(304deg, rgba(3,54,19,1) 0%, rgba(251,255,252,1) 0%, rgba(178,188,254,1) 100%);
+    background: linear-gradient(304deg, rgba(3,54,19,1) 0%, rgba(251,255,252,1) 0%, rgba(178,188,254,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#033613",endColorstr="#b2bcfe",GradientType=1);
+        
+}
+.ventas-container h1{
+    font-size: 3.5rem;
+    
+}
+@media (max-width: 768px){
+    .ventas-container{
+        padding:4rem 1rem;
+    }
+}

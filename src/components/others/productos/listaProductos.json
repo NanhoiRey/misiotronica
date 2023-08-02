@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "https://d2r9epyceweg5n.cloudfront.net/stores/001/947/751/products/d_nq_np_716855-mla32085259724_092019-o1-c0d49eba9dac90f89916411365212352-640-0.jpg",
+        "title": "Beatería Bosh",
+        "price": 335
+    },
+    {
+        "id": 2,
+        "image": "https://www.ropelato.com.ar/8105-medium_default/1052527-Cable-rojo---1-x-1-0mm---Rollo-x-100m.jpg",
+        "title": "Cable Especial",
+        "price": 450
+    },
+    {
+        "id": 3,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_681769-MLA46443775312_062021-O.webp",
+        "title": "Intel",
+        "price": 200
+    },
+    {
+        "id": 4,
+        "image": "https://imagenes.newcomputers.com.ar/foto.php?src=/FOTOS/X543UA-DM142.JPG&ancho=750&alto=750",
+        "title": "Notebook",
+        "price": 200
+    },
+    {
+        "id": 5,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_919319-MLA44111139770_112020-O.webp",
+        "title": "Estabilizador",
+        "price": 200
+    },
+    {
+        "id": 6,
+        "image": "https://mexx-img-2019.s3.amazonaws.com/coolermaster-cooler-cpu-rgb_42290_1.jpeg",
+        "title": "Fuente",
+        "price": 200
+    },
+    {
+        "id": 7,
+        "image": "https://www.digitarinformatica.com.ar/wp-content/uploads/2021/08/Router-Modem-TP-Link-W9970-4P-VDSL2-300MBPS-2x4DBi-1-1.jpg",
+        "title": "Módem",
+        "price": 200
+    }
+]
