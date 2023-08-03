@@ -1,3 +1,9 @@
+Projecto en React para fceqyn - unam
+
+Nicolas Rey - nanhoirey@gmail.com
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
